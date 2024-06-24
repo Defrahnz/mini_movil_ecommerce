@@ -1,0 +1,1 @@
+ C:\\Users\\nihil\\OneDrive\\Escritorio\\Proyecto-App\\proyecto_joyeria\\.dart_tool\\flutter_build\\d21cfaa47dfe419da4d41c70b2d0af14\\native_assets.yaml: 
